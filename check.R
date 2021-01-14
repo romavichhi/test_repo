@@ -1,0 +1,4 @@
+library(xx)
+
+
+check.options()
